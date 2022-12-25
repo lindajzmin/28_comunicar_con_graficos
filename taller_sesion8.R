@@ -2,7 +2,7 @@
 # CLUB DE LECTURA: R PARA CIENCIA DE DATOS
 # #Capítulo 28: Comunicar con gráficos
 # https://www.kaggle.com/
-# Autora: Linda Cabrera (@linditacabrera)
+# Autora: Linda Cabrera (@lindajzmin)
 
 
 ## Cargar las librerías
